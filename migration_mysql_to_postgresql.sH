@@ -2,7 +2,7 @@
 
 # CONFIG
 MYSQL_USER="root"
-MYSQL_PASS="your_mysql_password"
+MYSQL_PASS="Flower@123"
 MYSQL_DB="codtech"
 PG_USER="postgres"
 PG_DB="codtech_pg"
